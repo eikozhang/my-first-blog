@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "我的第一篇文章"
-image: assets/images/1.jpg
+title:  "一点感想"
+image: ../assets/images/1.jpg
 featured: true
 ---
 关于学习编程的故事
