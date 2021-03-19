@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "一点感想"
-image: assets/images/1.jpg
+image: assets/images/2.jpg
 featured: true
 ---
 关于学习编程的故事
